@@ -1,6 +1,7 @@
 import React from 'react'
 
 import { makeStyles } from '@material-ui/core/styles'
+import ReactMarkdown from 'react-markdown'
 
 import styles from 'src/assets/jss/nextjs-material-kit/pages/landingPageSections/workStyle.js'
 
@@ -13,9 +14,9 @@ export const AboutSection = (props) => {
     return(
         <div className={classes.container}>
         <h2 className={classes.title}>{props.title}</h2>
-        <h4 className={classes.description}>
-            {props.text}
-        </h4>
+        <ReactMarkdown className={classes.description}>
+        {props.text}
+        </ReactMarkdown>
         </div>
     )
 }
