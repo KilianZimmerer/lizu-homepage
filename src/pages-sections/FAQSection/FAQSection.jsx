@@ -20,7 +20,10 @@ export const FAQSection = (props) => {
                             header={title}
                             headerClass={classes.title}
                             className={classes.description}>
-                            {description}
+                                <ReactMarkdown className={classes.content}>
+                                    {description}
+                                </ReactMarkdown>
+                            
                         </Panel>)}
             </Collapse>
 
