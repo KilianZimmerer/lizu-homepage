@@ -2,6 +2,8 @@ import React from 'react'
 import Collapse from "rc-collapse";
 import styles from "src/assets/jss/nextjs-material-kit/components/FAQCard"
 import {makeStyles} from "@material-ui/core/styles";
+import ReactMarkdown from 'react-markdown'
+
 
 const Panel = Collapse.Panel
 const useClasses = makeStyles(styles)
@@ -23,7 +25,6 @@ export const FAQSection = (props) => {
                                 <ReactMarkdown className={classes.content}>
                                     {description}
                                 </ReactMarkdown>
-                            
                         </Panel>)}
             </Collapse>
 
