@@ -16,11 +16,11 @@
         "description": "Falls sie Ihren Laden für die Plattform registrieren wollen schreiben Sie ganz einfach eine Nachricht an berlin@berlinzudir.de. Wir senden Ihnen umgehend die nötigen Unterlagen zu und kümmern uns um den Rest."
       },
       {
-        "title": "Wie registriere ich meinen Laden auf BerlinzuDir?",
-        "description": "       Falls sie Ihren Laden für die Plattform registrieren wollen schreiben Sie ganz einfach eine Nachricht an berlin@berlinzudir.de. Wir senden Ihnen umgehend die nötigen Unterlagen zu und kümmern uns um den Rest.\n       Falls sie Ihren Laden für die Plattform registrieren wollen schreiben Sie ganz einfach eine Nachricht an berlin@berlinzudir.de. Wir senden Ihnen umgehend die nötigen Unterlagen zu und kümmern uns um den Rest.\n    • Mit einen vorhandenen Onlineshop ganz automatisch über eine unserer Schnittstellen\n    • Über das Warenwirtschaftssystem ganz automatisch über eine unserer Schnittstellen\n    • Senden Sie uns Bilder und Beschreibung der Produkte und wir organisieren den Rest"
+        "title": "Wie stelle ich meine Produkte online?",
+        "description": "• Mit einen vorhandenen Onlineshop ganz automatisch über eine unserer Schnittstellen\n    • Über das Warenwirtschaftssystem ganz automatisch über eine unserer Schnittstellen\n    • Senden Sie uns Bilder und Beschreibung der Produkte und wir organisieren den Rest"
       },
       {
-        "title": "Wie läuft der Bestellvorgang ab",
+        "title": "Wie läuft der Bestellvorgang ab?",
         "description": "• Bestellung: Kund:innen erstellen sich über unsere Plattform einen Warenkorb. \n    • Komissionierung: Sie stellen die Bestellung zusammen, Bonieren sie   über Ihr Kassensystem und stellen sie zur Abholung durch unsere Logistiker bereit.\n    • Zahlungsabwicklung: Die Bezahlung erfolgt ganz einfach entsprechend der auf dem Bon ausgewiesenen Summe über das SEPA-Lastschriftverfahren oder Kreditkarte und wird am nächsten Tag - ohne Verbuchung auf Zwischenkonten - direkt auf Ihr Konto gutgeschrieben.\n    • Auslieferung: Nach der Bestellung holt unser Kurierdienst die Bestellungen bei ihnen ab, stellt die Warenkörbe in unserem Depot zusammen und liefert diese zu zwei Zeitfenstern aus."
       },
       {
@@ -30,7 +30,7 @@
       {
         "title": "Wann startet BerlinzuDir?",
         "description": "Wir starten Mitte April."
-      },
+      }
     ]
   },
   "en": {
@@ -38,16 +38,32 @@
     "subtitle": "If you don't find an answer to your question, please leave a message.",
     "entries": [
       {
-        "title": "For Stores",
-        "description": "We help you sell your products through our online marketplace. Our marketplace is exclusive for local stores and producers. We help you to list your products. If available, also automatically via API. Orders are picked up once a day at a fixed time."
+        "title": "What is the BerlinzuDir platform?",
+        "description": "BerlinzuDir will be an online mall for local stores in Berlin. We bring the offers of different stores directly to people in Berlin - sustainable by cargo bike."
       },
       {
-        "title": "For Customers",
-        "description": "You can have your orders delivered to your clientele reliably and easily by cargo bike.\n\n We deliver products from different stores in one go - thus avoiding unnecessary routes and costs."
+        "title": "What does BerlinzuDir offer me?",
+        "description": "BerlinzuDir ist mehr als nur ein Marktplatz. Neben der Bereitstellung der Plattform, kümmern wir uns außerdem um eine schnelle und effiziente Lieferung der Waren und um eine größere Sichtbarkeit Ihres Ladens."
       },
       {
-        "title": "For the future",
-        "description": "We want to get everyone on board who wants to preserve the colorful diversity of Berlin's streets.\n\n That's why BerlinzuDir will be a cooperative: All participants can join in, have a say the project, or support with investment. \n\n And if profits are made, they will go back to the members."
+        "title": "How do I register my store on BerlinzuDir?",
+        "description": "If you want to register your store for the platform, simply write a message to berlin@berlinzudir.de. We will immediately send you the necessary documents and take care of the rest."
+      },
+      {
+        "title": "How to put my products online?",
+        "description": "• With an existing online store via one of our interfaces.\n    • With the merchandise management system via one of our interfaces.\n    • Send us pictures and descriptions of the products and we will take care of it."
+      },
+      {
+        "title": "How does the ordering process work?",
+        "description": "• Order: Customers create a shopping cart via our platform. \n    • Commissioning: you assemble the order, receipt it through your POS system, and make it ready for pickup by our logisticians.\n    • Payment: Payment is made simply according to the amount shown on the receipt via SEPA direct debit or credit card and is credited directly to your account the next day - without posting to interim accounts.\n    • Delivery: After the order is placed, our courier picks up the orders from you, assembles the baskets in our depot and delivers them at two time slots."
+      },
+      {
+        "title": "How does BerlinzuDir guarantee fair conditions?",
+        "description": "To effectively counter the international giants, we want to get everyone on board who wants to preserve the colorful diversity of Berlin's streets. That's why BerlinzuDir will become a platform cooperative: As soon as we have enough stores on board and the platform is sustainable, everyone who wants to participate or even just invest in a supportive way can join."
+      },
+      {
+        "title": "When does BerlinzuDir launch?",
+        "description": "We launch mid of April."
       }
     ]
   }
