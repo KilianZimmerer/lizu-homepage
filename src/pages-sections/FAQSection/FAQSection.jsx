@@ -22,7 +22,7 @@ export const FAQSection = (props) => {
                             header={title}
                             headerClass={classes.title}
                             className={classes.description}>
-                                <ReactMarkdown className={classes.content}>
+                                <ReactMarkdown>
                                     {description}
                                 </ReactMarkdown>
                         </Panel>)}
